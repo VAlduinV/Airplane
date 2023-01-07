@@ -1,6 +1,6 @@
 # Airplane
 Build a model that describes such events. 
-Build a model that describes such events. Some plane moves in a straight line from
+Some plane moves in a straight line from
 at a constant speed, and the dispatcher watching him must enter the information
 about the plane before it crosses the given border. Moreover, the intervals between entering two
 of neighboring messages are random variables distributed according to normal
