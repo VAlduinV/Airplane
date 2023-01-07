@@ -14,7 +14,7 @@ Provide for the possibility of observing: the distance traveled by the aircraft;
 characters entered by the dispatcher; the moment of occurrence of the event (had time/did not have time to enter
 information).
 
-
+![image](https://user-images.githubusercontent.com/86537032/211151302-cbae8f3e-f32c-4501-9b2d-fd60e4c9f7a0.png)
 
 Побудувати модель, що описує такі події. Деякий літак рухається прямолінійно з
 постійною швидкістю, а диспетчер, що спостерігає за ним, повинен ввести інформацію
